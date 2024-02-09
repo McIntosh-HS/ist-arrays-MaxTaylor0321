@@ -8,3 +8,5 @@ curlyarray: curlyarray.c
 
 chararray: chararray.c
 	gcc chararray.c -o chararray
+valentine: valentine.c
+	gcc valentine.c -o valentine
